@@ -5,4 +5,4 @@ do
 	echo The counter is $COUNTER
 	let COUNTER=$COUNTER+1
 	done
-	
+echo this text weas added on the new_branch	
